@@ -1,0 +1,33 @@
+go 1.20
+
+use (
+	./01start
+	./03userinput
+	./04conversion
+	./05mymath
+	./06mytime
+	./07pointers
+	./07pointers2
+	./08arrays
+	./09slices
+	./10maps
+	./11structs
+	./12ifelse
+	./13switchcase
+	./14loops
+	./15functions
+	./16methods
+	./17defer
+	./18files
+	./19webrequests
+	./20urls
+	./21exercises
+	./22jSON
+	./23mymodules
+	./24buildapi
+	./25mongapi
+	./26goroutines
+	./26waitgroups
+	./27MutexAndAwaitGroups
+	./28channels
+)
